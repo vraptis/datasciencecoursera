@@ -1,6 +1,6 @@
 ---
 title: "HelloWorld.md"
-author: "Vraptis"
+author: "vraptis"
 date: "22/1/2021"
 output: html_document
 ---
